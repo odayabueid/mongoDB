@@ -19,7 +19,7 @@
   "homepage": "https://github.com/iamshaunjp/mongodb-playlist#readme",
   "dependencies": {
     "mocha": "^3.5.3",
-    "mongoose": "^4.13.20"
+    "mongoose": "^5.13.15"
   },
   "directories": {
     "test": "test"
